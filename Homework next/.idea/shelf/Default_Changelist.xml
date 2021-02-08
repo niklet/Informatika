@@ -1,0 +1,134 @@
+<changelist name="Default_Changelist" date="1612793155842" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a1.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a2.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a3.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a4.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdCXX/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/a5.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.gcno" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.gcno" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeCCompilerId.gcno" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.gcno" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.gcno" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeCXXCompilerId.gcno" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_C1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_C2.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_CXX1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_CXX.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/CMakeDetermineCompilerABI_CXX2.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/CXX.includecache" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/depend.internal" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/Homework_4.exe" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/Homework_4.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Homework_4.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/main.cpp.gcda" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/main.cpp.gcno" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/Homework_4.dir/main.cpp.obj" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/Homework_4.dir/main.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/main.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/main.cpp1.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/main.cpp.obj" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/Homework_4.dir/objects.a" />
+    <option name="AFTER_PATH" value="../Homework 4/cmake-build-debug/CMakeFiles/Homework_4.dir/objects.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/objects.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/untitled.dir/objects.a" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/CMakeFiles/untitled.dir/objects.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/objects1.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug-coverage/CMakeFiles/untitled.dir/objects.a" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../Homework 5/cmake-build-debug/untitled.exe" />
+    <option name="AFTER_PATH" value="../Homework 5/cmake-build-debug/untitled.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/untitled.exe" />
+  </binary>
+</changelist>
