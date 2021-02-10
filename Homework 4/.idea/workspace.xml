@@ -14,8 +14,6 @@
     <list default="true" id="ee3a77c6-f35c-4da7-a5e4-ecd0b5344909" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework 5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework 5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,9 @@
       <workItem from="1612793842857" duration="15000" />
       <workItem from="1612793953590" duration="25000" />
       <workItem from="1612794030282" duration="12000" />
+      <workItem from="1612797569982" duration="3000" />
+      <workItem from="1612797587431" duration="8000" />
+      <workItem from="1612797657339" duration="15000" />
     </task>
     <servers />
   </component>

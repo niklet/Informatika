@@ -1,0 +1,3 @@
+C:/Informatika/Informatika/Homework 9/cmake-build-debug/CMakeFiles/Homework_9.dir
+C:/Informatika/Informatika/Homework 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Informatika/Informatika/Homework 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
